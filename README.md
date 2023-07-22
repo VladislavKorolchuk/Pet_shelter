@@ -48,3 +48,4 @@ cd target
 ## Launch
 java -jar SocksWarehouse.jar
 
+### For more information about the structure of the project, you can get (https://github.com/VladislavKorolchuk/Pet_shelter/wiki).
