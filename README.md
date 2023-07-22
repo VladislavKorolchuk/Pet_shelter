@@ -30,7 +30,6 @@ It is possible to directly contact the volunteer of the shelter and ask the user
 - *Liquibase*,
 - *SpringDoc*,
 - *Swagger UI*
-- *Docker*
 - *Mockito*
 
 ***
