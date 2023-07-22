@@ -34,12 +34,11 @@ It is possible to directly contact the volunteer of the shelter and ask the user
 
 ***
 - [Telegram Bot API](https://core.telegram.org/bots/api)
-
+***
 
 ## Vulnerabilities and incorrect operation of the application
 If you find vulnerabilities or bugs in the bot, please send an email to our mail: 9329496@mail.ru, they will be promptly removed.
 
-### For more information about the structure of the project, you can get [https://github.com/VladislavKorolchuk/Pet_shelter/wiki]
 ***
 Application assembly
 git clone https://github.com/VladislavKorolchuk/Pet_shelter.git
@@ -50,3 +49,4 @@ cd target
 Launch
 java -jar Pet_shelter.jar
 ***
+### For more information about the structure of the project, you can get [https://github.com/VladislavKorolchuk/Pet_shelter/wiki]
