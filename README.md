@@ -19,13 +19,6 @@ It is possible to directly contact the volunteer of the shelter and ask the user
 - [x] Weekly pet reports
 - [x] Volunteer consultation
 
-## Над проектом работали: 
--  Владислав Корольчук
--  Павел Деменков
--  Анастасия Шутова
--  Алексей Новицкий
--  Руслан Гилязев
-
 ***
 ### Technology stack: ###
 
@@ -42,10 +35,10 @@ It is possible to directly contact the volunteer of the shelter and ask the user
 
 ***
 - [Telegram Bot API](https://core.telegram.org/bots/api)
-Описание проекта Project description
+
 
 ## Vulnerabilities and incorrect operation of the application
-If you find vulnerabilities or bugs in the bot, please send an email to our mail: 9329496@mail.ru, они будут оперативно устранены.
+If you find vulnerabilities or bugs in the bot, please send an email to our mail: 9329496@mail.ru, they will be promptly removed.
 
 ### For more information about the structure of the project, you can get (https://github.com/VladislavKorolchuk/Pet_shelter/wiki).
 ***
