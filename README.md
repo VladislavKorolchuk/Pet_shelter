@@ -32,20 +32,19 @@ It is possible to directly contact the volunteer of the shelter and ask the user
 - *Swagger UI*
 - *Mockito*
 
-***
-- [Telegram Bot API](https://core.telegram.org/bots/api)
-***
+###  Telegram bot API: ###
 
-## Vulnerabilities and incorrect operation of the application
-If you find vulnerabilities or bugs in the bot, please send an email to our mail: 9329496@mail.ru, they will be promptly removed.
+http://localhost:8080/swagger-ui/index.html
 
 ***
-Application assembly
-git clone https://github.com/VladislavKorolchuk/Pet_shelter.git
-cd Pet_shelter
-mvn package
+
+  ## Application assembly
+
+git clone https://github.com/VladislavKorolchuk/SocksWarehouse.git \
+cd SocksWarehouse \
+mvn package \
 cd target
 
-Launch
-java -jar Pet_shelter.jar
-***
+## Launch
+java -jar SocksWarehouse.jar
+
