@@ -40,13 +40,13 @@ http://localhost:8080/swagger-ui/index.html
 
   ## Application assembly
 
-git clone https://github.com/VladislavKorolchuk/SocksWarehouse.git \
-cd SocksWarehouse \
+git clone https://github.com/VladislavKorolchuk/Pet_shelter.git \
+cd Pet_shelter \
 mvn package \
 cd target
 
 ## Launch
-java -jar SocksWarehouse.jar
+java -jar Pet_shelter.jar
 
 ***
 
